@@ -3,6 +3,8 @@
 A set of Ubuntu Touch (UBports) templates/skeleton Application created to speed up the developments of new applications.
 You can create a new application using one of them as starting point.
 
+** FOR MORE DETAILS, See 'Doc' folder **
+
 Currently all the templates are “pure-qml-cmake - Pure QML App (built using Cmake)” 
 (ie: qml+javascript based)
 
