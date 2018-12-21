@@ -23,19 +23,19 @@ Also the  installation of ‘clickable’  tool is nesessary (http://clickable.b
 It is not mandatory to create new applications from the templates but will be necessary to continue the development of your new application.
 
 **How to use the templates:**
-1) donwload/clone the template project
+1) donwload/clone the project (git clone https://github.com/fulvio999/ubports_app_templates.git)
 2) open a shell in the folder where you want create your new application
 3) run the following command:
 
 $ cookiecutter <path to cookiecutter.json>
 
-Where “<path to cookiecutter.json>” is the path to “cookiecutter.json”file  of the chosen template.
-4) provide the required informations (press enter to use default values)
+Where “<path to cookiecutter.json>” is the path to “cookiecutter.json”file of the chosen template.
+4) provide the required informations (press enter to use default proposed values)
 
 At the end, your new application will be placed in a folder whose name is the value provided for “project_name” entry.
 
 **Testing:**
-Note: ‘clcickable’ tool is necessary to perform this task
+Note: ‘clickable’ tool is necessary to perform this task
 To test your new application, enter in his root folder (here you’ll find a file named ‘clickable.json’)
 open a shell in that folder and run:
 
