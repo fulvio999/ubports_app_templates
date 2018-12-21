@@ -31,7 +31,8 @@ It is not mandatory to create new applications from the templates but will be ne
 
 $ cookiecutter "path to cookiecutter.json"
 
-Where “path to cookiecutter.json” is the path to “cookiecutter.json”file of the chosen template.
+Where “path to cookiecutter.json” is the path to “cookiecutter.json ”file of the chosen template.
+
 4) provide the required informations (press enter to use default proposed values)
 
 At the end, your new application will be placed in a folder whose name is the value provided for “project_name” entry.
