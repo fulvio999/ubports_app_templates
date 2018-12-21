@@ -18,6 +18,7 @@ There are four templates:
 **Requirements:**
 
 To use this template is necessary install the **“cookiecutter”** library (https://cookiecutter.readthedocs.io/en/latest/installation.html).
+
 After the installation will be available the executable ‘cookiecutter’ from the command line.
 
 Also the  installation of ‘clickable’  tool is nesessary (http://clickable.bhdouglass.com/en/latest/).
