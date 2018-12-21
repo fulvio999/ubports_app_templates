@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: {{cookiecutter.project_name}}\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-20 14:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/ItemDetailsPage.qml:24
+msgid "Details for"
+msgstr ""
+
+#: ../qml/ItemDetailsPage.qml:43
+msgid "Job"
+msgstr ""
+
+#: ../qml/ItemDetailsPage.qml:53
+msgid "Status"
+msgstr ""
+
+#: ../qml/ListItemDelegate.qml:57
+msgid "Name"
+msgstr ""
+
+#: ../qml/ListItemDelegate.qml:62
+msgid "Surname"
+msgstr ""
+
+#: ../qml/ListItemDelegate.qml:67
+msgid "Address"
+msgstr ""
+
+#: ../qml/ListItemDelegate.qml:72
+msgid "City"
+msgstr ""
+
+#: ../qml/ListItemDelegate.qml:77
+msgid "Country"
+msgstr ""
+
+#: ../qml/MainPage.qml:15
+msgid "ListView Sample App"
+msgstr ""
+
+#: ../qml/MainPage.qml:75
+msgid "Load Model"
+msgstr ""
+
+#: ../qml/MainPage.qml:148
+msgid "Filter by Name"
+msgstr ""
+
+#: ../qml/MainPage.qml:185
+msgid "Found"
+msgstr ""
+
+#: ../qml/MainPage.qml:185
+msgid "item(s)"
+msgstr ""
+
+#: {{cookiecutter.project_name}}.desktop.in.h:1
+msgid "{{cookiecutter.project_name}}"
+msgstr ""

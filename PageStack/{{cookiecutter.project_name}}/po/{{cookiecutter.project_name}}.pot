@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the pageStack.template package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: {{cookiecutter.project_name}}\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-13 10:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/dialog/ProductInfoDialog.qml:9
+msgid "Product Info"
+msgstr ""
+
+#: ../qml/dialog/ProductInfoDialog.qml:10
+msgid "Hello, i am ProductInfo Dialog"
+msgstr ""
+
+#: ../qml/dialog/ProductInfoDialog.qml:13
+msgid "Close"
+msgstr ""
+
+#: ../qml/HelpPage.qml:13
+msgid "Help Page"
+msgstr ""
+
+#: ../qml/HelpPage.qml:18
+msgid "Welcome in the Help Page"
+msgstr ""
+
+#: ../qml/SecondPage.qml:13
+msgid "Second Page"
+msgstr ""
+
+#: ../qml/SecondPage.qml:19
+msgid "Open Third Page"
+msgstr ""
+
+#: ../qml/FirstPage.qml:13
+msgid "App PageStack Template"
+msgstr ""
+
+#: ../qml/FirstPage.qml:21
+msgid "About"
+msgstr ""
+
+#: ../qml/FirstPage.qml:33
+msgid "Help"
+msgstr ""
+
+#: ../qml/FirstPage.qml:44
+msgid "Show Second Page"
+msgstr ""
+
+#: ../qml/ThirdPage.qml:13
+msgid "Third Page"
+msgstr ""
+
+#: ../qml/ThirdPage.qml:18
+msgid "Welcome, press Back link to return at second Page"
+msgstr ""
+
+#: PageStackTemplate.desktop.in.h:1
+msgid "MyBike"
+msgstr ""

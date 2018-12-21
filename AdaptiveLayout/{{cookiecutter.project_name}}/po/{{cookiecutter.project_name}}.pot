@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the adaptivelayout.template package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: adaptivelayout.template\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-13 10:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/dialog/DataBaseEraserDialog.qml:14
+msgid "Remove ALL"
+msgstr ""
+
+#: ../qml/dialog/DataBaseEraserDialog.qml:14
+msgid "(there is no restore)"
+msgstr ""
+
+#: ../qml/dialog/DataBaseEraserDialog.qml:36
+#: ../qml/dialog/AboutProductDialog.qml:14
+#: ../qml/dialog/OperationResultDialog.qml:25
+msgid "Close"
+msgstr ""
+
+#: ../qml/dialog/DataBaseEraserDialog.qml:43 ../qml/FirstPage.qml:63
+msgid "Delete"
+msgstr ""
+
+#: ../qml/dialog/AboutProductDialog.qml:11
+msgid "Product Info"
+msgstr ""
+
+#: ../qml/dialog/AboutProductDialog.qml:12
+msgid "Application version"
+msgstr ""
+
+#: ../qml/dialog/OperationResultDialog.qml:16
+msgid "Sample Dialog"
+msgstr ""
+
+#: ../qml/dialog/OperationResultDialog.qml:36
+msgid "Received input is"
+msgstr ""
+
+#: ../qml/HelpPage.qml:16
+msgid "Help Page"
+msgstr ""
+
+#: ../qml/HelpPage.qml:21
+msgid "Welcom to Help Page!"
+msgstr ""
+
+#: ../qml/SecondPage.qml:18
+msgid "Second Page"
+msgstr ""
+
+#: ../qml/SecondPage.qml:26
+msgid "Remove Second Page"
+msgstr ""
+
+#: ../qml/SecondPage.qml:33
+msgid "Show Third Page"
+msgstr ""
+
+#: ../qml/FirstPage.qml:24
+msgid "I am the Main Page"
+msgstr ""
+
+#: ../qml/FirstPage.qml:31
+msgid "About"
+msgstr ""
+
+#: ../qml/FirstPage.qml:40
+msgid "Help"
+msgstr ""
+
+#: ../qml/FirstPage.qml:51
+msgid "Add"
+msgstr ""
+
+#: ../qml/FirstPage.qml:73
+msgid "Show right Page"
+msgstr ""
+
+#: ../qml/AddNewItemPage.qml:21
+msgid "Add new Item page"
+msgstr ""
+
+#: ../qml/AddNewItemPage.qml:26
+msgid "Welcome Dialog)"
+msgstr ""
+
+#: ../qml/AddNewItemPage.qml:31
+msgid "Open a Dialog"
+msgstr ""
+
+#: ../qml/ThirdPage.qml:18
+msgid "Third Page"
+msgstr ""
+
+#: ../qml/ThirdPage.qml:23
+msgid "I am the third Page!"
+msgstr ""
+
+#: AdaptiveLayoutTemplate.desktop.in.h:1
+msgid "AdaptiveLayoutTemplate"
+msgstr ""
