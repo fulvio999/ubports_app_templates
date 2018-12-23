@@ -31,7 +31,11 @@ It is not mandatory to create new applications from the templates but will be ne
 
 $ cookiecutter "path to cookiecutter.json"
 
-Where “path to cookiecutter.json” is the path to “cookiecutter.json ”file of the chosen template.
+Where “path to cookiecutter.json” is the FULL path to “cookiecutter.json ”file of the chosen template.
+(For example you want use 'ChartJs' template:
+you are currently in the folder: /home/john/ and from this folder you run the following command: 
+$ cookiecutter /home/john/development/ubports/ubports_app_templates/ChartJs)
+At end of the textual wizard you new App will be place under'/home/john/' folder
 
 4) provide the required informations (press enter to use default proposed values)
 
