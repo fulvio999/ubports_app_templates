@@ -38,12 +38,12 @@ Where “path to cookiecutter.json” is the FULL path to “cookiecutter.json �
 At the end, your new application will be placed in a folder whose name is the value provided for “project_name” entry.
 
 
-(**For example** you want use 'ChartJs' template:
+**Example:** 
+
+you want use 'ChartJs' template:
 
 you are currently in the folder: /home/john/ and from this folder you run the following command: 
-
 $ cookiecutter /home/john/development/ubports/ubports_app_templates/ChartJs)
-
 At end of the textual wizard you new App will be place under'/home/john/' folder
 
 
