@@ -42,9 +42,11 @@ At the end, your new application will be placed in a folder whose name is the va
 
 you want use 'ChartJs' template:
 
-you are currently in the folder: /home/john/ and from this folder you run the following command: 
-$ cookiecutter /home/john/development/ubports/ubports_app_templates/ChartJs)
-At end of the textual wizard you new App will be place under'/home/john/' folder
+you are currently in the folder: /home/john/ and from this folder you run the following command in a new shell: 
+
+$ cookiecutter /home/john/development/ubports/ubports_app_templates/ChartJs
+
+At end of the textual wizard your new App will be place under'/home/john/' folder
 
 
 **Testing:**
