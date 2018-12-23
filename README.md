@@ -32,14 +32,17 @@ It is not mandatory to create new applications from the templates but will be ne
 $ cookiecutter "path to cookiecutter.json"
 
 Where “path to cookiecutter.json” is the FULL path to “cookiecutter.json ”file of the chosen template.
-(For example you want use 'ChartJs' template:
-you are currently in the folder: /home/john/ and from this folder you run the following command: 
-$ cookiecutter /home/john/development/ubports/ubports_app_templates/ChartJs)
-At end of the textual wizard you new App will be place under'/home/john/' folder
 
 4) provide the required informations (press enter to use default proposed values)
 
 At the end, your new application will be placed in a folder whose name is the value provided for “project_name” entry.
+
+
+(**For example** you want use 'ChartJs' template:
+you are currently in the folder: /home/john/ and from this folder you run the following command: 
+$ cookiecutter /home/john/development/ubports/ubports_app_templates/ChartJs)
+At end of the textual wizard you new App will be place under'/home/john/' folder
+
 
 **Testing:**
 Note: ‘clickable’ tool is necessary to perform this task
@@ -50,7 +53,8 @@ $ clickable desktop
 
 If everything is ok, after a while your new application will start.
 
-Now you are ready to start your new application development.
+Now you are ready to start your new application development. Open Atom Editor with 'clickable plugin' and open the root folder of
+your new generated App.
 
 **Of course the qml files name used in the templates (eg Page, Components id, Components names...) are generic. You can customize,rename, adpat them in the generated Application**
 
