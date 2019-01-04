@@ -7,10 +7,15 @@ You can create a new application using one of them as starting point.
 (ie: Application qml+javascript based)**
 
 There are five templates: 
+
 **- AdaptiveLayout:** to create an application based on the AdaptiveLayout Component
+
 **- ChartJs:** to create an application that include chart creation using a javascript library
+
 **- ListView:** to create an application that uses a ListView component (UbuntuListView) to show a list of items and PageStack for navigation
+
 **- PageStack:**  to create an application that uses PageStack component for pages navigation
+
 **-GridView:** to create an application that show in the home page a Pages Menu list disposed as Grid
 
 
