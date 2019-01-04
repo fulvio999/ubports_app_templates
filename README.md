@@ -6,7 +6,7 @@ You can create a new application using one of them as starting point.
 **Currently all the templates are “pure-qml-cmake - Pure QML App (built using Cmake)” 
 (ie: Application qml+javascript based)**
 
-There are five templates: 
+The available templates are: 
 
 **- AdaptiveLayout:** to create an application based on the AdaptiveLayout Component
 
@@ -17,7 +17,6 @@ There are five templates:
 **- PageStack:**  to create an application that uses PageStack component for pages navigation
 
 **-GridView:** to create an application that show in the home page a Pages Menu list disposed as Grid
-
 
 **Requirements:**
 
