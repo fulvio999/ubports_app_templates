@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the {{cookiecutter.project_name}} package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: {{cookiecutter.project_name}}\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-03 16:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/AppInfoDialogue.qml:9
+msgid "Application Info"
+msgstr ""
+
+#: ../qml/PageOne.qml:14
+msgid "Page One"
+msgstr ""
+
+#: ../qml/PageOne.qml:19
+msgid "Welcome, i'm PageOne.qml"
+msgstr ""
+
+#: ../qml/PageFour.qml:14
+msgid "Page Four"
+msgstr ""
+
+#: ../qml/PageFour.qml:19
+msgid "Welcome, i'm PageFour.qml"
+msgstr ""
+
+#: ../qml/FirstPage.qml:23
+msgid "About"
+msgstr ""
+
+#: ../qml/FirstPage.qml:35
+msgid "Help"
+msgstr ""
+
+#: ../qml/FirstPage.qml:73
+msgid "Click to open page 1"
+msgstr ""
+
+#: ../qml/FirstPage.qml:93
+msgid "Click to open page 2"
+msgstr ""
+
+#: ../qml/FirstPage.qml:113
+msgid "Click to open page 3"
+msgstr ""
+
+#: ../qml/FirstPage.qml:133
+msgid "Click to open page 4"
+msgstr ""
+
+#: ../qml/HelpPage.qml:16
+msgid "Help Page"
+msgstr ""
+
+#: ../qml/HelpPage.qml:21
+msgid "Welcome, i'm HelpPage.qml"
+msgstr ""
+
+#: ../qml/PageThree.qml:14
+msgid "Page Three"
+msgstr ""
+
+#: ../qml/PageThree.qml:19
+msgid "Welcome, i'm PageThree.qml"
+msgstr ""
+
+#: ../qml/PageTwo.qml:14
+msgid "Page Two"
+msgstr ""
+
+#: ../qml/PageTwo.qml:19
+msgid "Welcome, i'm PageTwo.qml"
+msgstr ""
+
+#: {{cookiecutter.project_name}}.desktop.in.h:1
+msgid "{{cookiecutter.project_name}}"
+msgstr ""
