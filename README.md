@@ -45,10 +45,12 @@ At the end, your new application will be placed in a folder whose name is the va
 
 **Example:** 
 
-you want use 'ChartJs' template and you have cloned the "ubports_app_templates" project in the folder 
+you want use 'ChartJs' template and you have cloned the "ubports_app_templates" project in the folder:
+
 "/home/john/development/ubports/".
 
-you are currently in the folder: /home/john/  and from this folder you run the following command in a new shell: 
+
+Now you are currently in the folder: /home/john/  and from this one you run the following command in a new shell: 
 
 $ cookiecutter /home/john/development/ubports/ubports_app_templates/ChartJs
 
