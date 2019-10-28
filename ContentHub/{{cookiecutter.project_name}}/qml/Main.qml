@@ -25,7 +25,7 @@ MainView {
     applicationName: "{{cookiecutter.project_name}}"
     property string appVersion : "{{cookiecutter.project_version}}"
 
-    /* application hidden folder where are saved the imported image. (the path is fixed by App confinement rules) */
+    /* application hidden folder where are saved the imported image. (the path is fixed by UBPorts App confinement rules) */
     property string imagesSavingRootPath: ".local/share/{{cookiecutter.project_name}}"
 
     /* local variable to be monitored to get info about Content-hub image transfer status */
@@ -77,6 +77,7 @@ MainView {
     }
     //------------------------------------------------------------------------------------
 
+
     PageStack {
         id: pageStack
 
@@ -124,7 +125,7 @@ MainView {
             var destinationPath = Fileutils.getHomePath()+"/"+root.imagesSavingRootPath+"/images";
 
             console.log("Moving image from path: " + sourcePath +" To destination path: " + destinationPath);
-            Fileutils.moveImage(sourcePath, destinationPath,imageName);          
+            Fileutils.moveImage(sourcePath, destinationPath,imageName);
         }
     }
 
