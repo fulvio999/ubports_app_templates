@@ -1,0 +1,16 @@
+{
+    "name": "{{cookiecutter.project_name}}",
+    "description": "{{cookiecutter.project_description}}",
+    "architecture": "armhf",
+    "title": "{{cookiecutter.project_name}}",
+    "hooks": {
+        "{{cookiecutter.project_name}}": {
+            "apparmor": "{{cookiecutter.project_name}}.apparmor",
+            "desktop":  "{{cookiecutter.project_name}}.desktop",
+            "content-hub":"{{cookiecutter.project_name}}.content-hub"
+        }
+    },
+    "version": "{{cookiecutter.project_version}}",
+    "maintainer": "{{cookiecutter.project_maintainer}}",
+    "framework" : "ubuntu-sdk-16.04"
+}

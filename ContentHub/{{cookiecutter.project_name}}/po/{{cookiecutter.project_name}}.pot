@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the {{cookiecutter.project_name}} package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: {{cookiecutter.project_name}}\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-05 10:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/dialog/ImageZoomDialog.qml:16
+msgid "Image"
+msgstr ""
+
+#: ../qml/dialog/ImageZoomDialog.qml:16
+msgid "tap to close"
+msgstr ""
+
+#: ../qml/dialog/DataBaseEraserDialog.qml:14
+msgid "Remove ALL saved Moments"
+msgstr ""
+
+#: ../qml/dialog/DataBaseEraserDialog.qml:14
+msgid "(there is no restore)"
+msgstr ""
+
+#: ../qml/dialog/DataBaseEraserDialog.qml:36
+#: ../qml/dialog/RemoveImageDialog.qml:40
+#: ../qml/dialog/MomentDeleteDialog.qml:45
+#: ../qml/dialog/AboutProductDialog.qml:16
+#: ../qml/dialog/OperationResultDialog.qml:38
+msgid "Close"
+msgstr ""
+
+#: ../qml/dialog/DataBaseEraserDialog.qml:43
+#: ../qml/dialog/MomentDeleteDialog.qml:59 ../qml/EditMomentPageTablet.qml:57
+#: ../qml/MomentsListPage.qml:72 ../qml/EditMomentPagePhone.qml:55
+msgid "Delete"
+msgstr ""
+
+#: ../qml/dialog/DataBaseEraserDialog.qml:55
+msgid "Succesfully Removed ALL moments data"
+msgstr ""
+
+#: ../qml/dialog/RemoveImageDialog.qml:19
+msgid "Remove the Image"
+msgstr ""
+
+#: ../qml/dialog/RemoveImageDialog.qml:46 ../qml/ShowImagesPagePhone.qml:127
+#: ../qml/ShowImagesPageTablet.qml:126
+msgid "Remove"
+msgstr ""
+
+#: ../qml/dialog/RemoveImageDialog.qml:54
+msgid "Image successfully removed"
+msgstr ""
+
+#: ../qml/dialog/MomentDeleteDialog.qml:23
+msgid "Remove the Moment"
+msgstr ""
+
+#: ../qml/dialog/MomentDeleteDialog.qml:72
+msgid "Succesfully removed Moment"
+msgstr ""
+
+#: ../qml/dialog/AboutProductDialog.qml:12
+msgid "Product Info"
+msgstr ""
+
+#: ../qml/dialog/AboutProductDialog.qml:13
+msgid "version"
+msgstr ""
+
+#: ../qml/dialog/AboutProductDialog.qml:13
+msgid "Author"
+msgstr ""
+
+#: ../qml/dialog/AboutProductDialog.qml:14
+msgid "Credits: Mario Guerriero for the base idea"
+msgstr ""
+
+#: ../qml/dialog/OperationResultDialog.qml:22
+msgid "Operation Result"
+msgstr ""
+
+#: ../qml/ImageNamesListPage.qml:43 ../qml/ShowImagesPagePhone.qml:33
+#: ../qml/ShowImagesPageTablet.qml:34
+msgid "Images found"
+msgstr ""
+
+#: ../qml/ImageNamesListPage.qml:48 ../qml/AddNewMomentPagePhone.qml:245
+#: ../qml/AddNewMomentPageTablet.qml:246 ../qml/MomentsListPage.qml:56
+msgid "Add"
+msgstr ""
+
+#: ../qml/ImportImagesPage.qml:24
+msgid "Add images"
+msgstr ""
+
+#: ../qml/HelpPage.qml:15
+msgid "Help Page"
+msgstr ""
+
+#: ../qml/HelpPage.qml:47
+msgid ""
+"With Moments you can group your pictures, images by Moments, periods of your "
+"life"
+msgstr ""
+
+#: ../qml/HelpPage.qml:48
+msgid "(Example: marriage, holidays, party)."
+msgstr ""
+
+#: ../qml/HelpPage.qml:49
+msgid ""
+"Note: the images imported must be placed on the local device, not on remote "
+"sources"
+msgstr ""
+
+#: ../qml/HelpPage.qml:50
+msgid ""
+"When an image is deleted, is removed the one managed by Moments App, NOT "
+"other copy in the device filesystem (if any)"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:27 ../qml/AddNewMomentPageTablet.qml:27
+msgid "Add new moment"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:37 ../qml/AddNewMomentPageTablet.qml:37
+msgid "Invalid Title (empty or invalid characters)"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:42 ../qml/AddNewMomentPageTablet.qml:42
+msgid "Moment title existing, please change it"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:47 ../qml/AddNewMomentPageTablet.qml:47
+#: ../qml/EditMomentPageTablet.qml:68 ../qml/EditMomentPagePhone.qml:66
+msgid "FAILURE"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:47 ../qml/AddNewMomentPageTablet.qml:47
+msgid "Error adding new Moment"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:52 ../qml/AddNewMomentPageTablet.qml:52
+#: ../qml/EditMomentPageTablet.qml:73 ../qml/EditMomentPagePhone.qml:71
+msgid "SUCCESS"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:52 ../qml/AddNewMomentPageTablet.qml:52
+msgid "Moment added successfully"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:87 ../qml/AddNewMomentPageTablet.qml:87
+#: ../qml/EditMomentPageTablet.qml:108 ../qml/EditMomentPagePhone.qml:106
+msgid "Title"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:108 ../qml/AddNewMomentPageTablet.qml:108
+#: ../qml/EditMomentPageTablet.qml:128 ../qml/EditMomentPagePhone.qml:126
+msgid "Description"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:128 ../qml/AddNewMomentPageTablet.qml:128
+#: ../qml/EditMomentPageTablet.qml:149 ../qml/MomentsListDelegate.qml:62
+#: ../qml/EditMomentPagePhone.qml:147
+msgid "Location"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:170 ../qml/AddNewMomentPageTablet.qml:170
+#: ../qml/EditMomentPageTablet.qml:190 ../qml/MomentsListDelegate.qml:67
+#: ../qml/EditMomentPagePhone.qml:188
+msgid "Date"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:191 ../qml/AddNewMomentPageTablet.qml:191
+#: ../qml/EditMomentPageTablet.qml:212 ../qml/EditMomentPagePhone.qml:210
+msgid "Photos"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:196 ../qml/AddNewMomentPageTablet.qml:196
+msgid "Choose"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:225 ../qml/AddNewMomentPageTablet.qml:226
+msgid "Tag"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:231 ../qml/AddNewMomentPageTablet.qml:232
+#: ../qml/EditMomentPagePhone.qml:239
+msgid "comma or space separated list"
+msgstr ""
+
+#: ../qml/AddNewMomentPagePhone.qml:273 ../qml/AddNewMomentPageTablet.qml:274
+#: ../qml/EditMomentPageTablet.qml:273 ../qml/EditMomentPagePhone.qml:271
+msgid "Field required"
+msgstr ""
+
+#: ../qml/ShowImagesPagePhone.qml:116 ../qml/ShowImagesPageTablet.qml:115
+msgid "Zoom"
+msgstr ""
+
+#: ../qml/EditMomentPageTablet.qml:68 ../qml/EditMomentPagePhone.qml:66
+msgid "Error editing Moment"
+msgstr ""
+
+#: ../qml/EditMomentPageTablet.qml:73 ../qml/EditMomentPagePhone.qml:71
+msgid "Moment edited successfully"
+msgstr ""
+
+#: ../qml/EditMomentPageTablet.qml:217 ../qml/EditMomentPagePhone.qml:215
+msgid "Edit"
+msgstr ""
+
+#: ../qml/EditMomentPageTablet.qml:235 ../qml/EditMomentPagePhone.qml:233
+msgid "Tags"
+msgstr ""
+
+#: ../qml/EditMomentPageTablet.qml:241
+msgid "comma separated list"
+msgstr ""
+
+#: ../qml/EditMomentPageTablet.qml:254 ../qml/EditMomentPagePhone.qml:252
+msgid "Update"
+msgstr ""
+
+#: ../qml/MomentsListPage.qml:29
+msgid "Moments"
+msgstr ""
+
+#: ../qml/MomentsListPage.qml:36
+msgid "About"
+msgstr ""
+
+#: ../qml/MomentsListPage.qml:45
+msgid "Help"
+msgstr ""
+
+#: ../qml/MomentsListPage.qml:138
+msgid "moment to search"
+msgstr ""
+
+#: ../qml/MomentsListPage.qml:143 ../qml/MomentsListPage.qml:158
+#: ../qml/MomentsListPage.qml:167
+msgid "Total moments found"
+msgstr ""
+
+#: ../qml/MomentsListPage.qml:152
+msgid "Filter"
+msgstr ""
+
+#: ../qml/MomentsListPage.qml:158
+msgid "(filtered)"
+msgstr ""
+
+#: moments.desktop.in.h:1
+msgid "moments"
+msgstr ""
