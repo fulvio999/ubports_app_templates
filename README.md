@@ -22,8 +22,8 @@ The available templates are:
 **-GridView:** to create an application that show in the home page a Pages Menu list disposed as Grid
 
 **-ContentHub:** to create an application based on UBPorts ContentHub to import images from the Apps registered as 'Images source' on your device.
-(With little changes this template can be adapted import types that need the use of ContentHub).
-For more technical comments and information about ContentHub import, please look at the source code.
+(With little changes this template can be adapted to import other types that need the ContentHub).
+For more technical comments and informations about ContentHub import process, please look at the source code of the template.
 
 
 **Requirements:**
